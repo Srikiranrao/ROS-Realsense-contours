@@ -16,7 +16,8 @@ Environments : Ubuntu 20.04 and install opencv and ROS noetic
 Terminal 1 :
 run realsense ROS package 
 package can be downloaded from below repo
-'https://github.com/IntelRealSense/realsense-ros'
+
+https://github.com/IntelRealSense/realsense-ros
 
 Terminal 2 :
 Run image subscriber to receive two topics: /camera/rgbd/image and /camera/depth/image_raw
