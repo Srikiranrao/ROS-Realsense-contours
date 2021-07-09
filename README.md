@@ -24,3 +24,4 @@ Run image subscriber to receive two topics: /camera/rgbd/image and /camera/depth
 
 `$ rosrun ros_realsense_image image_realsense_subscriber`
 
+![demo](https://user-images.githubusercontent.com/43459203/125072244-eee7bb80-e0ec-11eb-8b71-0c9d10aab679.gif)
